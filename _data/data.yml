@@ -7,42 +7,42 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: 선종호
+    tagline: 제주대학교 컴퓨터공학과 3학년
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: jeju0@jejunu.ac.kr
+    phone: 010 3339 3187
+    citizenship: 대한민국
+    website: claris0.github.io #do not add http://
+    linkedin: none
+    xing: none
+    github: claris0
+    telegram: none # add your nickname without '@' sign
+    gitlab: none
+    bitbucket: none
+    twitter: none
+    stack-overflow: forgottn # Number/Username, e.g. 123456/alandoe
+    codewars: none
+    goodreads: none # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf # 이력서
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Korean 한국어
+        level: Native 원어민
 
-      - idiom: French
-        level: Professional
+      - idiom: Japenesse 일본어
+        level: Beginner 초급자
 
-      - idiom: Spanish
-        level: Professional
+     # - idiom: Spanish
+     #   level: Professional
 
     interests:
-      - item: Climbing
+      - item: 독서
         link:
 
-      - item: Snowboarding
+      - item: 2차 창작 글쓰기
         link:
 
       - item: Cooking

@@ -31,6 +31,9 @@ sidebar:
     languages:
       - idiom: Korean 한국어
         level: Native 원어민
+        
+      - idiom: English 영어
+        level: Beginner 초급자
 
       - idiom: Japenesse 일본어
         level: Beginner 초급자

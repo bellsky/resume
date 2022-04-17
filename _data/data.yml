@@ -42,7 +42,10 @@ sidebar:
       - item: 독서
         link:
 
-      - item: 2차 창작 글쓰기
+      - item: 글쓰기
+        link:
+      
+      - item: 음악감상
         link:
 
       - item: 산책

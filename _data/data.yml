@@ -15,10 +15,10 @@ sidebar:
     email: jeju0@jejunu.ac.kr
     phone: 010 3339 3187
     citizenship: 대한민국
-    website: claris0.github.io #do not add http://
+    website: bellsky.github.io #do not add http://
     linkedin: none
     xing: none
-    github: claris0
+    github: bellsky
     telegram: none # add your nickname without '@' sign
     gitlab: none
     bitbucket: none
@@ -72,9 +72,8 @@ experiences:
       time: Not yet
       company: noWhere
       details: |
-        아직 개발자로서 활동해보지 않았습니다.
-          - #
-          - #
+          - # University SW Capston Prject - daily food recommand application 'day again'
+          - # University SW Capston Team Project - Image recognization services using CNN for smart health care 'Health Capture'
 projects:
     title: 관심있는 저장소
     intro: >

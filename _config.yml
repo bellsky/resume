@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: OSS 과제 자기소개 블로그
-url: 'https://claris0.github.io'
+title: 선종호 자기소개서
+url: 'https://bellsky.github.io'
 
 #change it according to your repository name
 # disabling since we are using a custom domain

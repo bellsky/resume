@@ -72,8 +72,10 @@ experiences:
       time: Not yet
       company: noWhere
       details: |
-          - # University SW Capston Prject - daily food recommand application 'day again'
-          - # University SW Capston Team Project - Image recognization services using CNN for smart health care 'Health Capture'
+          - # **day again**
+          University SW Capston Prject - daily food recommand application 
+          - # **Health Capture**
+          University SW Capston Team Project - Image recognization services using CNN for smart health care 
 projects:
     title: 관심있는 저장소
     intro: >
